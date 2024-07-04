@@ -1,4 +1,4 @@
-# The History of Global Natural Gas Production Dashboard
+# The History of Global Natural Gas Production
 
 https://public.tableau.com/app/profile/leila.yoo/vizzes
 
