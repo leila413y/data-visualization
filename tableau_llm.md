@@ -2,4 +2,4 @@
 
 [Link for Interactive Dashboard](https://public.tableau.com/app/profile/leila.yoo/vizzes)
 
-![Dashboard](https://github.com/user-attachments/assets/db8742b4-1414-413e-899b-9cf8aaebae78)
+![Dashboard](https://github.com/user-attachments/assets/40ed91c2-541e-40dd-beee-2588ac8140a0)
